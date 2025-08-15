@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 75" width="150" height="75">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-135,0,0,-34,138.666,-16.041)">
+			<stop offset="0" stop-color="#3b82f6"/>
+			<stop offset="1" stop-color="#8b5cf6"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 38px;fill:  url(#g1);font-weight: 400;font-family: "Pacifico-Regular", "Pacifico" } 
+	</style>
+	<text id="Webster" style="transform: matrix(.917,0,0,.917,4.334,53.041)" >
+		<tspan x="0" y="0" class="t0">W</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">b</tspan><tspan  y="0" class="t0">s</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">r
+</tspan>
+	</text>
+</svg>
